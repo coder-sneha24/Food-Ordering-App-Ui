@@ -1,3 +1,9 @@
+Food Ordering App
+
 Steps to run the project:
-First do npm install 
-And by using npm start we can start the application 
+
+First run the command:
+npm install
+
+To start the application, run:
+npm start
